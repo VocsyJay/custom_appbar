@@ -2,8 +2,9 @@ name: custom_appbar
 description: A customAppbar Flutter package project.
 version: 0.0.1
 authors:
-  - Jay Mangukiya
-homepage:
+  - Jay
+  - Vocsy
+homepage: https://github.com/VocsyJay/custom_appbar.git
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
